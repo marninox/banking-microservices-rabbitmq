@@ -4,6 +4,7 @@ namespace BankingMicroRabbit.Transfer.Data.Migrations
 {
     public partial class InitialMigration : Migration
     {
+        // This is the initial migration for the TransferLogs table.
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
