@@ -24,6 +24,7 @@
     <PackageReference Include="SkiaSharp.Views.Forms" Version="2.80.2" />
     <PackageReference Include="ControlzEx" Version="6.0.0" />
     <PackageReference Include="FluentNHibernate" Version="3.3.0" />
+    <PackageReference Include="Npgsql" Version="6.0.3" />
   </ItemGroup>
 
   <ItemGroup>
