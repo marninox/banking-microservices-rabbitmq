@@ -25,6 +25,7 @@
     <PackageReference Include="ControlzEx" Version="6.0.0" />
     <PackageReference Include="FluentNHibernate" Version="3.3.0" />
     <PackageReference Include="Npgsql" Version="6.0.3" />
+    <PackageReference Include="RestSharp" Version="107.3.0" />
   </ItemGroup>
 
   <ItemGroup>
